@@ -6,8 +6,9 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 
 ## Contact me
 
-Telegram: [@derricklee918](https://t.me/@derricklee918)
+Telegram: [@dwlee918](https://t.me/@dwlee918)
 
+X: [@dwlee918](https://t.me/@dwlee918)
 
 ## Features
 
